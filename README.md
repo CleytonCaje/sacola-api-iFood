@@ -37,7 +37,7 @@
 
 No Terminal/Console:
 <ol>
-	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/cami-la/sacola-api.git</code></li>
+	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/CleytonCaje/sacola-api-iFood.git</code></li>
 	<li>Entre na pasta raiz do projeto: <code>cd sacola-api</code></li> 
 	<li>Rode o comando: <code>./gradlew bootrun</code></li>
 	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
@@ -83,7 +83,7 @@ No Terminal/Console:
 <h3>Autor</h3>
 
 <a href="https://www.linkedin.com/in/cleytoncaje/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/CleytonCaje" width="100px;" alt=""/>
  <br />
  <sub><b>Cleyton Antônio</b></sub></a> <a href="https://www.instagram.com/camimi_la/" title="Instagram"></a>
 
